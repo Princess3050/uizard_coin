@@ -1,0 +1,200 @@
+.section1 {
+    background-color: rgb(96, 116, 134);
+}
+
+
+.style {
+    overflow: hidden;
+    white-space: pre-wrap;
+    width: 500px;
+    height: 212px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    font-family: Red Hat Display;
+    font-weight: 700;
+    font-size: 60px;
+    letter-spacing: 0px;
+    line-height: 70px;
+    text-align: left;
+    text-transform: none;
+    opacity: 1;
+    background-color: rgb(96, 116, 134);
+
+}
+
+.style2 {
+    overflow: hidden;
+    white-space: pre-wrap;
+    width: 506px; height:
+    80px; margin: 0px;
+    color: rgb(255, 255, 255);
+    font-family: Red Hat Display;
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    text-align: left;
+    text-transform: none;
+    opacity: 1;
+    top: 468px;
+    left: 104px;
+    width: 506px;
+    height: 80px;
+    z-index: 19;
+}
+
+.style3 {
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    overflow: hidden;
+    outline: none;
+    cursor: inherit;
+    width: 281px;
+    height: 60px; 
+    color: rgb(3, 3, 3);
+    background-color: rgb(254, 209, 116);
+    font-family: Red Hat Display;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-transform: none;
+    line-height: 26px;
+    padding: 0px 10px;
+    border-radius: 8px;
+    opacity: 1;
+    border: 1px solid rgb(254, 209, 116);
+   
+}
+
+.style4 {
+   
+    z-index: 13;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    overflow: hidden;
+    outline: none;
+    cursor: inherit;
+    width: 163px;
+    height: 60px; 
+    color: rgb(254, 209, 116);
+    background-color: rgba(3, 3, 3, 0);
+    font-family: Red Hat Display;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-transform: none;
+    line-height: 26px;
+    padding: 0px 10px; 
+    border-radius: 8px; 
+    opacity: 1; 
+    border: 1px solid rgb(254, 209, 116);
+    
+    margin-left: 50px; 
+}
+
+
+.style5 {
+    background-position: center center; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    border-radius: 0px; 
+    opacity: 1; 
+    border: 0px;
+    width: 100%;
+    height: 100%;
+    margin-left: 10px
+}
+
+.style6 {
+    width: 2%; 
+    height: 2%;
+    margin-left: 50%;
+}
+
+.style7 {
+    top: 968px; left: 1042px; width: 280px; height: 52px; z-index: 73;
+    overflow: hidden; white-space: pre-wrap; width: 280px; height: 52px; margin: 0px; color: rgb(255, 255, 255); font-family: Red Hat Display; font-weight: 700; font-size: 40px; letter-spacing: 0px; line-height: 52px; text-align: center; text-transform: none; opacity: 1;
+}
+
+.style8 {
+    top: 921px; left: 1028px; width: 308px; height: 31px; z-index: 67;
+    overflow: hidden; white-space: pre-wrap; width: 308px; height: 31px; margin: 0px; color: rgb(255, 255, 255); font-family: Red Hat Display; font-weight: 500; font-size: 24px; letter-spacing: 0px; line-height: 31px; text-align: center; text-transform: none; opacity: 1;
+}
+
+.style9 {
+    background-position: center center; background-size: cover; background-repeat: no-repeat; border-radius: 0px; opacity: 1; border: 0px;
+    top: 160px; left: 630px; width: 100%; height: 80%; z-index: 145;
+}
+
+/*.style10 {
+    top: 2384px; left: 370px; width: 700px; height: 164px; z-index: 139;
+    overflow: hidden; white-space: pre-wrap; width: 700px; height: 164px; margin: 0px; color: rgb(70, 85, 99); font-family: Red Hat Display; font-weight: 700; font-size: 40px; letter-spacing: 0px; line-height: 52px; text-align: center; text-transform: none; opacity: 1;
+}
+
+.style11 {
+    top: 2984px; left: 780px; width: 400px; height: 184px; z-index: 163;
+    overflow: hidden; white-space: pre-wrap; width: 400px; height: 184px; margin: 0px; color: rgb(70, 85, 99); font-family: Red Hat Display ; font-size: 20px; letter-spacing: 0px; line-height: 26px; text-align: left; text-transform: none; opacity: 1;
+}*/
+
+.style10 {
+    top: 1362px; left: 780px; width: 520px; height: 158px; z-index: 115;
+    overflow: hidden; white-space: pre-wrap; width: 520px; height: 158px; margin: 0px; color: rgb(70, 85, 99); font-family: Red Hat Display; font-weight: 700; font-size: 40px; letter-spacing: 0px; line-height: 52px; text-align: left; text-transform: none; opacity: 1;
+}
+
+.style11 {
+    top: 1536px; left: 780px; width: 400px; height: 182px; z-index: 121;
+    overflow: hidden; white-space: pre-wrap; width: 400px; height: 182px; margin: 0px; color: rgb(70, 85, 99); font-family: Red Hat Display; font-size: 20px; letter-spacing: 0px; line-height: 26px; text-align: left; text-transform: none; opacity: 1;
+}
+
+.style12 {
+    display: flex; align-items: center; justify-content: center; box-sizing: border-box; overflow: hidden; outline: none; cursor: inherit; width: 284px; height: 60px; color: rgb(3, 3, 3); background-color: rgb(254, 209, 116); font-family:Red Hat Display; font-weight: 700; font-size: 20px; 
+    letter-spacing: 0px; text-align: center; text-transform: none; line-height: 26px; padding: 0px 10px; border-radius: 8px; opacity: 1; border: 1px solid rgb(254, 209, 116);
+    display: flex; align-items: center; flex-direction: row;
+}
+
+.heading1 {
+    margin-top: 50%;
+}
+
+.style13 {
+    overflow: hidden; white-space: pre-wrap; width: 720px; height: 70px; margin: 0px; margin-left: 20%; color: rgb(70, 85, 99); font-family: Red Hat Display; font-weight: 550; font-size: 55px; 
+    letter-spacing: 0px; line-height: 70px; text-align: center; text-transform: none; opacity: 1;
+    top: 2274px; left: 360px;  z-index: 133;
+}
+
+.style14 {
+    top: 2384px; left: 370px; width: 700px; height: 164px; z-index: 139;
+    overflow: hidden; white-space: pre-wrap; width: 600px; margin-top: 10gitgirem; height: 164px; margin: 0px;  margin-left: 25%; color: rgb(70, 85, 99); font-family: Red Hat Display; font-weight: 500; font-size: 40px; letter-spacing: 0px; line-height: 52px; text-align: center; text-transform: none; opacity: 1;
+}
+
+.style15 {
+    top: 2880px; 
+    left: 166px; 
+    width: 420px; 
+    height: 420px; 
+    z-index: 175;
+    background-position: center center; 
+    background-size: cover;
+     background-repeat: no-repeat; 
+     border-radius: 0px; opacity: 1; border: 0px;
+}
+
+.style16 {
+    background-color: rgb(96, 116, 134) ;
+}
+
+.style17 {
+    top: 3520px; 
+    left: 562px; 
+    width: 316px; 
+    height: 62px; 
+    z-index: 181;
+    overflow: hidden; white-space: pre-wrap; width: 316px; height: 62px; margin: 0px; color: rgb(255, 255, 255); 
+    font-family: Red Hat Display; font-weight: 700; font-size: 48px; letter-spacing: 0px; 
+    line-height: 62px;  text-transform: none; margin-top: 10rem; 
+}
